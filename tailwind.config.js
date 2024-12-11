@@ -4,7 +4,7 @@ export default {
   theme: {
     extend: {
       colors: {
-        playStationBlue: '#003791',
+        psBlue: '#003791',
         softWhite: '#f8f9fa',
       },
     },
